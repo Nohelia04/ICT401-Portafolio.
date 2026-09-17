@@ -119,32 +119,37 @@ Si una dimensión principal de la pieza cambiara, indique qué Sketch, dimensió
 
 Modelo completo en orientación pictórica, con nombre del diseño y ViewCube visibles.
 
-![Lab I-B: Modelo final](S09_LabIB_Modelo_Apellido_Nombre.png) 
+![Lab I-B: Modelo final](S09_LabIB_Modelo_Apellido_Nombre.png) <img width="930" height="381" alt="S09_LabIB_Modelo_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/a38ea7e8-6e69-4171-a875-b3f292e3062e" />
+
  
 
 ### D2 · Vistas de verificación
 
 Montaje de Front, Top y Right del modelo, presentado de manera clara para comparar con el plano base.
 
-![Lab I-B: Vistas](S09_LabIB_Vistas_Apellido_Nombre.png)
+![Lab I-B: Vistas](S09_LabIB_Vistas_Apellido_Nombre.png)<img width="790" height="399" alt="Captura de pantalla 2026-09-17 165627" src="https://github.com/user-attachments/assets/affbf2b3-00da-4871-ab5d-9b7ab32d986b" />
+
 
 ### D3 · Boceto y restricciones
 
 Captura del boceto más representativo con restricciones y dimensiones visibles.
 
-![Lab I-B: Boceto](S09_LabIB_Boceto_Apellido_Nombre.png)
+![Lab I-B: Boceto](S09_LabIB_Boceto_Apellido_Nombre.png) <img width="790" height="399" alt="Captura de pantalla 2026-09-17 165627" src="https://github.com/user-attachments/assets/9149a23f-3baf-4663-962d-073b18985ee0" />
+
 
 ### D4 · Timeline / historial paramétrico
 
 Captura donde se observen las operaciones principales del historial del modelo.
 
-![Lab I-B: Timeline](S09_LabIB_Timeline_Apellido_Nombre.png)
+![Lab I-B: Timeline](S09_LabIB_Timeline_Apellido_Nombre.png)<img width="414" height="298" alt="Captura de pantalla 2026-09-17 165718" src="https://github.com/user-attachments/assets/94056c32-6c8a-4dff-acd7-311533f44b1e" />
+
 
 ### D5 · Verificación dimensional
 
 Captura de `Inspect > Measure` con una dimensión crítica y el elemento seleccionado visibles.
 
-![Lab I-B: Medicion](S09_LabIB_Medicion_Apellido_Nombre.png)
+![Lab I-B: Medicion](S09_LabIB_Medicion_Apellido_Nombre.png) <img width="449" height="285" alt="Captura de pantalla 2026-09-17 165740" src="https://github.com/user-attachments/assets/b402484b-c075-4506-86c1-41c0eb62ddb1" />
+
 
 ---
 
