@@ -54,11 +54,13 @@ Se utilizó el entorno Drawing o la función de vistas del modelo en Fusion para
 
 Captura de las vistas ortogonales generadas desde el modelo.
 
-![P1: Vistas](S10_P1_Vistas_Apellido_Nombre.png)
+![P1: Vistas](S10_P1_Vistas_Apellido_Nombre.png)<img width="618" height="495" alt="](S10_P1_Vistas_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/1e11fcfd-3e7a-44f4-a443-89d40bce020f" />
+
 
 Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
-![P1: Modelo](S10_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S10_P1_Modelo_Apellido_Nombre.png)<img width="1365" height="672" alt="S10_P1_Modelo_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/1a987dfa-bd5d-4fbb-9e2a-095fed442cf1" />
+
 
 ---
 
@@ -91,7 +93,10 @@ Sí. La escala seleccionada permite observar claramente las tres vistas y coloca
 
 Captura del Drawing con las tres vistas insertadas y alineadas.
 
-![P2: Plano](S10_P2_Plano_Apellido_Nombre.png)
+![P2: Plano](S10_P2_Plano_Apellido_Nombre.png)<img width="657" height="467" alt="S10_P2_Plano_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/d5ccc6e8-0fd1-4bfe-b021-b8690744c6b8" />
+
+
+
 
 ---
 
@@ -130,11 +135,13 @@ Se organizaron las cotas de mayor a menor, desde las más alejadas hacia las má
 
 Captura del Drawing con las cotas aplicadas.
 
-![P3: Cotización](S10_P3_Cotizacion_Apellido_Nombre.png)
+![P3: Cotización](S10_P3_Cotizacion_Apellido_Nombre.png)<img width="645" height="451" alt="S10_P3_Cotizacion_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/20a73623-88da-45c1-9081-c815800dd863" />
+
 
 Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
-![P3: Detalle](S10_P3_Detalle_Apellido_Nombre.png)
+![P3: Detalle](S10_P3_Detalle_Apellido_Nombre.png)<img width="379" height="212" alt="S10_P3_Detalle_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/3ba6e132-deed-4c2b-93a1-19b65f6654be" />
+
 
 ---
 
@@ -176,11 +183,14 @@ Sí, el objetivo del ejercicio es que el Drawing sea autónomo y contenga las di
 
 Drawing completo con vistas y cotas.
 
-![P4: Plano completo](S10_P4_PlanoCompleto_Apellido_Nombre.png)
+![P4: Plano completo](S10_P4_PlanoCompleto_Apellido_Nombre.png)<img width="1359" height="678" alt="S10_P4_PlanoCompleto_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/466e0b39-c542-4b37-89a8-4f4115937bf5" />
+
+
 
 Comparación del Drawing con el modelo 3D.
 
-![P4: Verificación](S10_P4_Verificacion_Apellido_Nombre.png)
+![P4: Verificación](S10_P4_Verificacion_Apellido_Nombre.png)<img width="652" height="461" alt="S10_P4_Verificacion_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/c7e10ee1-b551-462c-8b24-ac3183e3ba1f" />
+
 
 ---
 
