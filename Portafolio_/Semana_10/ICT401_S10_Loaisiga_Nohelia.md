@@ -21,7 +21,7 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.1 · Modelo utilizado
 
-- Nombre del diseño en Fusion: [Nombre real del diseño]
+- Nombre del diseño en Fusion: [S10_P1_Vistas_Loaisiga_Nohelia]
 - Pieza de referencia (semana de origen): Pieza en L reconstruida en la Semana 9.
 
 ### P1.2 · Características principales del modelo
@@ -149,7 +149,7 @@ Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
 ### P4.1 · Pieza documentada
 
-- Nombre del diseño: [Nombre real del diseño en Fusion]
+- Nombre del diseño: [S10_P4_Vistas_Loaisiga_Nohelia]
 - Pieza de referencia: Pieza con base, resalte, perforación y ranura reconstruida en la Semana 9.
 
 ### P4.2 · Vistas generadas
