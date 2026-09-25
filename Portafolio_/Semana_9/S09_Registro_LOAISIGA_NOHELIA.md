@@ -113,16 +113,16 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 ### P3.1 · Antes de modelar, describa la pieza en una frase técnica
 
-[Respuesta]
+[Es una pieza prismática formada por una base rectangular, un resalte posterior, una perforación vertical pasante de 12mm y una ranura rectangular vertical pasante de 12x16mm]
 
 ### P3.2 · Dimensiones y características clave
 
 | Elemento | Valor o descripción | Vista(s) de donde se obtiene |
 |---|---|---|
-| X total | [Respuesta] | [Respuesta] |
-| Y total | [Respuesta] | [Respuesta] |
-| Z total | [Respuesta] | [Respuesta] |
-| Característica 1 | [Respuesta] | [Respuesta] |
+| X total | [80mm] | [Respuesta] |
+| Y total | [50mm] | [Respuesta] |
+| Z total | [Resalte de 45x30mm] | [Respuesta] |
+| Característica 1 | [Aguero vertical 12mm centro (22,35)] | [Respuesta] |
 | Característica 2 | [Respuesta] | [Respuesta] |
 | Característica 3 | [Respuesta] | [Respuesta] |
 
