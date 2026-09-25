@@ -1,0 +1,2 @@
+## Fase 01 semana 10 Definición
+En esta esta primera fase lo que hicimos como grupo fue de finir lo que íbamos a realizar para el proyecto, y para esto surgió la idea de la Tapa dispensadora y para ello nos encargamos de buscar algo que fuera de utilidad. Buscamos los problemas y como beneficiaria a las demás personas y para esto creamos un boceto de como se vería capa parte de la estructura y el ensamblaje a la hora de montarlo, también unas mediciones que no son exactas porque aún no tenemos un diseño definitivo en Fusion al final.     
