@@ -73,24 +73,24 @@ Use los casos A, B y C incluidos en la guía. Reutilice las capturas P2 como evi
 
 ### Caso A
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion para comprobarla: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
+- Hipótesis inicial: [ La línea horizontal continua del perfil no debía dibujarse porque no representa un contorno exterior circundante de la pieza.].
+- Acción realizada en Fusion para comprobarla: [Se orientó la pieza en la vista frontal (Front) en cámara ortográfica y se inspeccionó si existía una arista real en la transición de la cara baja a la cara alta del escalón.].
+- Error confirmado y corrección justificada: [ El error consistía en omitir la línea del escalón; la corrección exige mantener la línea horizontal continua ya que representa la arista visible generada por el cambio de nivel/altura en la cara frontal del sólido.].
 - Evidencia: vista frontal de P2.
 
 ### Caso B
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion y dimensión comprobada: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
-- ¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: [Respuesta].
+- Hipótesis inicial: [La vista superior no mantiene la alineación de ancho vertical ni la proporción respecto a la vista frontal.].
+- Acción realizada en Fusion y dimensión comprobada: [Se utilizó la herramienta Inspect > Measure comprobando que el ancho total en ambas vistas es exactamente 60mm y que la posición horizontal de la arista del escalón coincide a 30mm.].
+- Error confirmado y corrección justificada: [Se confirmó un error de alineación/proyección gráfica. Se corrigió proyectando la vista superior directamente debajo de la frontal respetando la correspondencia vertical de anchos.].
+- ¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: [En un plano o dibujo técnico a escala común, la falta de correspondencia representa un error formal de proyección ortogonal; en las capturas de Fusion, una diferencia visual de tamaño se debe simplemente al nivel de zoom de la ventana de renderizado, manteniendo la geometría y las medidas reales idénticas 60mm].
 - Evidencia: vistas frontal y superior de P2.
 
 ### Caso C
 
-- Hipótesis inicial: [Respuesta].
-- Acción realizada en Fusion para comprobarla: [Respuesta].
-- Error confirmado y corrección justificada: [Una o dos frases].
+- Hipótesis inicial: [ La vista lateral derecha muestra el escalón en el lado opuesto o se encuentra ubicada al lado derecho según la convención del tercer diedro.].
+- Acción realizada en Fusion para comprobarla: [Se seleccionó la cara Right en el ViewCube y se verificó su abatimiento a la izquierda de la vista frontal conforme a la proyección en el primer diedro].
+- Error confirmado y corrección justificada: [Se identificó una confusión entre proyecciones diedras; se corrigió disponiendo la vista lateral derecha a la izquierda de la frontal, mostrando la cara más alta a la derecha del perfil proyectado.].
 - Evidencia: vista superior de P2.
 
 ## Verificación de entrega
