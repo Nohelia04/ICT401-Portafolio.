@@ -87,17 +87,17 @@ Captura donde se vea el Sketch, dimensión u operación que mejor representa la 
 |---|---|---|---|
 | Número de operaciones | [Menor cantidad de operaciones] | [Mayor cantidad de operaciones] | [A porque requiere menos operaciones] |
 | Claridad de intención de diseño | [Alta porque el perfil completo se define de una vez] | [Alta porque las características se construyen por separados  ] | [B porque separa la base y la torre] |
-| Facilidad de edición | [Respuesta] | [Respuesta] | [Respuesta] |
-| Dependencia entre operaciones | [Respuesta] | [Respuesta] | [Respuesta] |
-| Correspondencia con el plano | [Media] [Mayor porque la torre depende de la base] | [A porque tiene menos dependencia entre operaciones] |
+| Facilidad de edición | [Alta para cambiar el perfil global; requiere editar solo un Sketch.] | [Media, requiere ajustar el Sketch inicial o la altura de la segunda extrusión.] | [Estrategia A, ya que todos los cambios de perfil se concentran en el primer Sketch.] |
+| Dependencia entre operaciones | [Baja; las características principales nacen de la misma operación base.] | [Mayor; la torre depende de la cara superior creada por la base.] | [Estrategia A, al reducir fallos en cascada en la línea del tiempo si se modifica la base.] |
+| Correspondencia con el plano |  [Mayor porque la torre depende de la base] | [A porque tiene menos dependencia entre operaciones] |[Estrategia A, al reducir fallos en cascada en la línea del tiempo si se modifica la base.]
 
 ### P2.5 · Si cambia una dimensión principal de la pieza, ¿qué estrategia sería más fácil de modificar? Explique qué Sketch u operación tendría que editar.
 
-[Respuesta]
+[La Estrategia A sería la más fácil de modificar. Al haber construido el perfil principal en forma de L en un solo boceto frontal (plano XZ), cualquier cambio en la altura total, altura del escalón, ancho de la base o espesor de la torre se realiza directamente editando el Sketch 1. En la Estrategia B, modificar estas cotas podría requerir editar múltiples bocetos o ajustar cotas de extrusión separadas]
 
 ### P2.6 · ¿Cuál estrategia usaría finalmente y por qué?
 
-[Respuesta]
+[Utilizaría la Estrategia A. Es más eficiente al requerir menos operaciones en el timeline de Fusion, mantiene una menor dependencia entre características y facilita futuras modificaciones paramétricas concentrando las dimensiones del perfil principal en un único boceto.]
 
 ### Evidencias P2
 
@@ -119,45 +119,45 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 | Elemento | Valor o descripción | Vista(s) de donde se obtiene |
 |---|---|---|
-| X total | [80mm] | [Respuesta] |
-| Y total | [50mm] | [Respuesta] |
-| Z total | [Resalte de 45x30mm] | [Respuesta] |
-| Característica 1 | [Aguero vertical 12mm centro (22,35)] | [Respuesta] |
-| Característica 2 | [Respuesta] | [Respuesta] |
-| Característica 3 | [Respuesta] | [Respuesta] |
+| X total | [80mm] | [front y top] |
+| Y total | [50mm] | [top y right] |
+| Z total | [45mm] | [front, y right] |
+| Característica 1 | [Resalte de 45x30m] | [front, top y right] |
+| Característica 2 | [Aguero vertical 12mm centro (22,35)] | [top] |
+| Característica 3 | [Ranura vertical pasante de 12x16mm] | [top] |
 
 ### P3.3 · Estrategia inicial
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
+1. [Crear un boceto en el plano XY (Top) para dibujar el perfil base de la pieza de 80 × 50 mm y extruirlo en Z hasta la altura de la base.]
+2. [Crear un segundo boceto sobre la cara superior para definir la geometría del resalte posterior (45 × 30 mm) y extruirlo verticalmente hasta alcanzar la altura total de 45 mm.]
+3. [Crear un boceto en la cara superior para ubicar el centro del agujero cilíndrico (coordenadas 22, 35 mm desde el origen) y aplicar una operación de extruido de corte o pasante de Ø12 mm.]
+4. [Diseñar el boceto de la ranura rectangular de 12 × 16 mm sobre el contorno correspondiente y extruir en corte pasante toda la altura requerida.]
+5. [Verificar las cotas finales mediante la herramienta de medición (Inspect > Measure) y comparar las vistas ortográficas (Front, Top y Right) en proyección ortográfica contra el plano técnico.]
 
 ### P3.4 · Verificación de vistas
 
 | Vista | ¿Coincide con el plano? | Contorno/característica comprobada | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Sí] | [Contorn frontal, altura total y resalte] | [Ninguna] |
+| Top | [Sí] | [Ancho, profundidad, posición del agujero y ranura ] | [Ninguna] |
+| Right | [Sí] | [Profundidad, altura de la base y resalte ] | [Ninguna] |
 
 ### P3.5 · Verificación dimensional
 
 | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento medido | ¿Coincide? |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | [80mm] | [80mm] | [Ancho total] | [si] |
+| 2 | [50mm] | [50mm] | [Pronfundidad total ] | [si] |
+| 3 | [45mm] | [45mm] | [Altura total] | [si] |
+| 4 | [12mm] | [12mm] | [Agujero pasante ] | [si] |
 
 ### P3.6 · ¿Qué cambió entre su estrategia inicial y el modelo final?
 
-[Respuesta]
+[La estrategia inicial se mantuvo durante el modelado. AL realizar la comparación de las vistas Front, Top y Right, el modelo coincidió con el plano, por lo que no fue necesario modificar ningún Sketch, dimensión u operación]
 
 ### P3.7 · Si tuviera que cambiar una dimensión principal, ¿qué Sketch, dimensión u operación editaría?
 
-[Respuesta]
+[Si tuviera que cambiar una dimensión principal, editaría el Sketch que controla la base de la pieza y modificaria la dimensión correspondiente. Si el cambio fuera de una característica especifica modificaría el Sketch u operación que controla esa característica para que las demás operaciones dependientes se actualicen corretamente.]
 
 ### Evidencias P3
 
@@ -179,19 +179,19 @@ Captura de una comprobación dimensional con `Inspect > Measure`.
 
 La diferencia principal entre reconstruir una pieza en Semana 8 y reconstruirla desde un plano en Semana 9 es:
 
-[Respuesta]
+[En la Semana 8 se trabajaba a partir de la observación e interpretación directa de un modelo 3D previo, mientras que en la Semana 9 la reconstrucción exige interpretar cotas, vistas ortográficas y tolerancias directamente desde un plano técnico en 2D, traduciendo esa información gráfica en una estrategia de operaciones paramétricas en 3D]
 
 Antes de abrir Fusion, la información mínima que debo extraer de un plano es:
 
-[Respuesta]
+[Las dimensiones máximas globales (X, Y y Z), la ubicación del origen de coordenadas conveniente, el plano principal de boceto (Front, Top o Right) para la primera extrusión y la identificación de las características geométricas secundarias (agujeros, ranuras, escalones) con sus respectivas cotas de ubicación.]
 
 Una estrategia de modelado es mejor que otra cuando:
 
-[Respuesta]
+[Requiere un menor número de operaciones complejas, mantiene una intención de diseño clara, reduce las dependencias innecesarias entre bocetos y permite modificar dimensiones principales de forma sencilla sin que el árbol de operaciones genere errores o fallos en la geometría.]
 
 La comprobación final más importante para asegurar que el modelo corresponde al plano es:
 
-[Respuesta]
+[Configurar la cámara en modo ortográfico, orientar las vistas estándar (Front, Top y Right) para compararlas visualmente de forma directa contra el plano y utilizar la herramienta Inspect Measure para validar que las dimensiones críticas medidas en el modelo 3D coincidan exactamente con las cotas del plano.]
 
 ## Checklist
 
