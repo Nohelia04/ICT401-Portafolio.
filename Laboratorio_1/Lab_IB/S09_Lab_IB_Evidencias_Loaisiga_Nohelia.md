@@ -198,16 +198,29 @@ Este bloque debe permitir una revisión rápida sin tener que inferir informaci�
 - ¿El archivo y las evidencias cumplen nomenclatura y presentación? [Respuesta]
 - Incidencias que el evaluador debería revisar directamente en Fusion: [Respuesta]
 
-## H. Retroalimentación del evaluador
+## H. Retroalimentacion del evaluador
 
 ### Fortalezas
 
-[Evaluador]
+A1-A5 y B1-B2 contienen informacion util; cinco evidencias estan enlazadas.
 
 ### Aspectos por corregir
 
-[Evaluador]
+Completar C1-C3, marcar el checklist, declarar acceso/commit y normalizar la ruta/nomenclatura.
 
-### Calificación final
+### Desglose del puntaje
 
-**[Evaluador] / 10,0 %**
+| Criterio | Puntaje obtenido |
+|---|---:|
+| R1 - Interpretacion correcta del plano o conjunto de vistas | 1.50 |
+| R2 - Reconstruccion tridimensional coherente | 1.88 |
+| R3 - Aplicacion de restricciones y dimensiones | 0.75 |
+| R4 - Precision geometrica y correspondencia con el plano | 0.50 |
+| R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
+| R6 - Presentacion y cumplimiento del enunciado | 0.50 |
+
+R5 se califica con 0,00 porque la ficha no respeta la nomenclatura y la carpeta oficial `Portafolio/semana09`. La revision se baso exclusivamente en esta ficha y sus evidencias enlazadas o insertadas; no se inspeccionaron archivos de Fusion.
+
+### Calificacion final
+
+**5.13 / 10,0 %**
