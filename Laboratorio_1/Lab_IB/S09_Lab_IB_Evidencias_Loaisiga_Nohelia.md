@@ -219,7 +219,7 @@ Completar C1-C3, marcar el checklist, declarar acceso/commit y normalizar la rut
 | R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.50 |
 
-R5 se califica con 0,00 porque la ficha no respeta una ruta y nomenclatura oficial, o no presenta evidencia verificable. La revisiÃ³n se basÃ³ exclusivamente en esta ficha y sus evidencias enlazadas o insertadas.
+R5 se califica con 0,00 porque la ficha no respeta una ruta y nomenclatura oficial, o no presenta evidencia verificable. La revisión se basó exclusivamente en esta ficha y sus evidencias enlazadas o insertadas.
  No se inspeccionaron archivos de Fusion.
 
 ### Calificacion final
