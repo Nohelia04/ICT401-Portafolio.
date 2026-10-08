@@ -181,7 +181,7 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Aplicacion de restricciones y dimensiones | 1.50 | 0.75 | Puntaje parcial: C1-C3 estan sin completar. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 0.50 | Puntaje parcial: C1 y C2 no contienen verificaciones respondidas. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.75 | Puntaje parcial: La ruta Laboratorio_1/Lab_IB/ se acepta como variante equivalente; faltan acceso docente y commit. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: Checklist: 0 de 12 casillas marcadas correctamente; 12 sin marcar; 0 con marcas no estandarizadas. El checklist no esta marcado. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: Checklist: 0 de 12 casillas tienen alguna marca; 12 sin marcar. El checklist no esta marcado. |
 
 **Total obtenido: 5.88 / 10,00 %**
 
