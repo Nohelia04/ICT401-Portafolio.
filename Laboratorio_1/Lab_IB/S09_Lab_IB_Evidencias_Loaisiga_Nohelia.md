@@ -228,3 +228,31 @@ La ficha esta en Laboratorio_1/Lab_IB/, fuera de las rutas oficiales, y faltan a
 ### Calificacion final
 
 **5.13 / 10,0 %**
+
+## H. Retroalimentacion del evaluador
+
+### Fortalezas
+
+A1-A5 y B1-B2 contienen informacion util; cinco evidencias estan enlazadas.
+
+### Aspectos por corregir
+
+Completar C1-C3, marcar el checklist, declarar acceso/commit y normalizar la ruta/nomenclatura.
+
+### Desglose del puntaje
+
+| Criterio | Puntaje obtenido |
+|---|---:|
+| R1 - Interpretacion correcta del plano o conjunto de vistas | 1.50 |
+| R2 - Reconstruccion tridimensional coherente | 1.88 |
+| R3 - Aplicacion de restricciones y dimensiones | 0.75 |
+| R4 - Precision geometrica y correspondencia con el plano | 0.50 |
+| R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
+| R6 - Presentacion y cumplimiento del enunciado | 0.50 |
+
+La ficha esta en Laboratorio_1/Lab_IB/, fuera de las rutas oficiales, y faltan acceso docente y commit.
+ No se inspeccionaron archivos de Fusion.
+
+### Calificacion final
+
+**5.13 / 10,0 %**
