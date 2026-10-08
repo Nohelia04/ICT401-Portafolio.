@@ -176,8 +176,8 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
-| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: En A1-A5 y C1, revisar la interpretacion de dimensiones, caracteristicas y vistas. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: En A1-A5 y C1, revisar la interpretacion de dimensiones, caracteristicas y vistas. |
+| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. |
 | Aplicacion de restricciones y dimensiones | 1.50 | 0.75 | Puntaje parcial: C1-C3 estan sin completar. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 0.50 | Puntaje parcial: C1 y C2 no contienen verificaciones respondidas. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ficha esta en `Laboratorio_1/Lab_IB/`, fuera de las rutas oficiales, y faltan acceso docente y commit. |
