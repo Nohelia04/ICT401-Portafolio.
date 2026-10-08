@@ -47,8 +47,7 @@ Trabaje sobre un modelo o plano desarrollado en Semana 10. Use milímetros, orie
 | Característica | Vista donde aparece | ¿Se comunica claramente? | Problema detectado |
 |---|---|---|---|
 | 1 | [Agujero Ø14 mm Top] | [Parcialmente] | [Se identifica su posición, pero una vista convencional no permite comunicar completamente su profundidad y recorrido interior.] |
-| 2 | [Plataforma superior	Front / Right] | [Sí] | [El contorno exterior se reconoce, aunque su relación con el agujero puede resultar menos clara sin una sección.
-] |
+| 2 | [Plataforma superior	Front / Right] | [Sí] | [El contorno exterior se reconoce, aunque su relación con el agujero puede resultar menos clara sin una sección.] |
 | 3 | [Torre superior	Front / Right] | [Sí	] | [Su altura y contorno son visibles mediante las vistas principales.] |
 | 4 | [Ranura 14 × 12 mm	Top / Front] | [Parcialmente] | [Puede requerir líneas ocultas para comunicar completamente su geometría.] |
 
@@ -80,9 +79,11 @@ Una captura aislada del modelo no demuestra la comparación solicitada.
 
 P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la documentación técnica.
 
-![P1: Modelo](S11_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S11_P1_Modelo_Loaisiga_Nohelia.png)<img width="1353" height="712" alt="S11_P1_Modelo_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/ef24410b-d80f-4fd1-98c3-2da55e7340c7" />
 
-![P1: Comparación](S11_P1_Comparacion_Apellido_Nombre.png)
+
+![P1: Comparación](S11_P1_Comparacion_Loaisiga_Nohelia.png)<img width="1340" height="720" alt="S11_P1_Comparacion_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/e0219fbc-439f-4fd0-bd5d-873aa5842047" />
+
 
 ## P2 — Plano de corte y sección
 
@@ -142,9 +143,11 @@ Un dibujo sin flechas, letras o rayado no demuestra el procedimiento completo.
 
 Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` se trabaja en P3.
 
-![P2: Croquis del corte](S11_P2_CroquisCorte_Apellido_Nombre.png)
+![P2: Croquis del corte](S11_P2_CroquisCorte_Loaisiga_Nohelia.png)<img width="690" height="369" alt="S11_P2_CroquisCorte_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/d7858b13-a265-4593-ba82-a661bcc9a625" />
 
-![P2: Sección identificada](S11_P2_Seccion_Apellido_Nombre.png)
+
+![P2: Sección identificada](S11_P2_Seccion_Loaisiga_Nohelia.png)<img width="867" height="622" alt="S11_P2_Seccion_Loaisiga_Nohelia.png" src="https://github.com/user-attachments/assets/537c702c-e0ea-4074-93c6-0e4020eb2c33" />
+
 
 ## P3 — Corte o sección en Fusion
 
@@ -165,7 +168,7 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 ### P3.1 · Configuración
 
-- Drawing utilizado: [ICT401_S10_P4_Loaisiga_Nohelia]
+- Drawing utilizado: [ICT401_S10_P2_Loaisiga_Nohelia]
 - Espacio de trabajo utilizado: `Drawing`
 - Herramienta utilizada: `Section View`
 - Vista de origen: [Top]
@@ -207,7 +210,8 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pantalla genérica de Fusion.
 
-![P3: Plano con sección](S11_P3_PlanoSeccion_Apellido_Nombre.png)
+![P3: Plano con sección](S11_P3_PlanoSeccion_Apellido_Nombre.png)<img width="1237" height="642" alt="image" src="https://github.com/user-attachments/assets/1f75bc10-b192-4e06-b728-6fbb6e9d04fb" />
+
 
 ![P3: Verificación con modelo](S11_P3_ModeloVerificacion_Apellido_Nombre.png)
 
