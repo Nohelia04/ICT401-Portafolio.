@@ -178,10 +178,10 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 |---|---:|---:|---|
 | Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: En A1-A5 y C1, revisar la interpretacion de dimensiones, caracteristicas y vistas. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
 | Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 0.75 | Puntaje parcial: En B1, D3 y C2, revisar restricciones, cotas y las cinco verificaciones dimensionales. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 0.50 | Puntaje parcial: En C1, C2, D2 y D5, revisar la correspondencia geometrica y las mediciones documentadas. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 0.75 | Puntaje parcial: C1-C3 estan sin completar. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 0.50 | Puntaje parcial: C1 y C2 no contienen verificaciones respondidas. |
 | Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ficha esta en `Laboratorio_1/Lab_IB/`, fuera de las rutas oficiales, y faltan acceso docente y commit. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: En D1-D5 y el checklist, revisar la integridad de las evidencias y el cumplimiento formal del enunciado. Observacion especifica: C1, C2 y C3 estan sin completar; el checklist no esta marcado y faltan acceso docente y commit. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: El checklist no esta marcado. |
 
 **Total obtenido: 5.13 / 10,00 %**
 
