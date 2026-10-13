@@ -80,13 +80,13 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 ### P1.1 · Estado de referencia
 
-- Nombre del proyecto Fusion: [Respuesta]
-- Nombre del diseño: [Respuesta]
-- Nombre del Drawing: [Respuesta]
-- Formato actual: [Respuesta]
-- Orientación actual: [Respuesta]
-- Unidades: [Respuesta]
-- Escala actual de la hoja o vistas: [Respuesta]
+- Nombre del proyecto Fusion: [ Nohelia Loaisiga]
+- Nombre del diseño: [Componente Principal]
+- Nombre del Drawing: [CT401_S09_P3_Loaisiga_Nohelia Dibujo]
+- Formato actual: [ISO A4]
+- Orientación actual: [Vertical]
+- Unidades: [mm]
+- Escala actual de la hoja o vistas: [ 1:2.5]
 
 ### P1.2 · Diagnóstico
 
@@ -368,7 +368,8 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ![P5: Impresión](S12_P5_PrevisualizacionImpresion_Loaisiga_Nohelia.png)<img width="512" height="421" alt="image" src="https://github.com/user-attachments/assets/6c3f47da-a4bf-4cd4-868a-c8a632a5f94a" />
 
-![P5: Entrega](S12_P5_Entrega_Loaisiga_Nohelia.png)
+![P5: Entrega](S12_P5_Entrega_Loaisiga_Nohelia.png)<img width="1355" height="717" alt="image" src="https://github.com/user-attachments/assets/b471421a-4fa8-48a8-9f5d-90104051f213" />
+
 
 ## Reflexión final
 
