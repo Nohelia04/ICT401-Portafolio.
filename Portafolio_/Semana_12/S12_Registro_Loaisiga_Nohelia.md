@@ -4,8 +4,8 @@
 
 - Estudiante: [Nohelia Loaisiga Sandoval.]
 - Grupo: [60]
-- Proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Drawing de referencia de Semana 11: [Respuesta]
+- Proyecto de Fusion Cloud con acceso docente: [Nohelia Loaisiga]
+- Drawing de referencia de Semana 11: [ICT401_S09_P3_Loaisiga_Nohelia Dibujo]
 - Modelo utilizado: [Nombre del diseño]
 - Laboratorio integrador II-A: [Respuesta]
 - Fase 2 del Proyecto: [Respuesta]
@@ -92,23 +92,23 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 | Problema observado | Ubicación exacta en la hoja | Por qué afecta la entrega | Corrección prevista |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| [Cruce de líneas de cota con geometría] | [ Vista de Perfil Derecha ] | [Confunde contornos visibles con líneas de cota] | [ Desplazar cotas al exterior de la pieza.] |
+| [Colisión entre vista isométrica y cajetín ] | [Esquina inferior derecha] | [Tapa campos clave de identificación e información del proyecto] | [Reorganizar disposición de vistas en formato A3] |
+| [Sección A-A sin indicación clara] | [Vista Frontal ] | [No se identifica con precisión el plano de corte] | [Reconfigurar escala de texto y etiquetas de corte] |
 
 ### P1.3 · Comparación de alternativas
 
 | Alternativa | Ventaja | Limitación | ¿La selecciono? |
 |---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] |
+| [ ISO A4 ] | [Ocupa poco espacio digital] | [Espacio insuficiente para sección, detalle e isométrica simultáneamente ] | [No] |
+| [ISO A3] | [Espaciado óptimo para distribución según ISO 128] | [Requiere replantear el esquema de ubicación] | [Sí] |
 
-- Formato seleccionado: [Respuesta]
-- Orientación seleccionada: [Respuesta]
-- Escala inicial seleccionada: [Respuesta]
-- Justificación técnica: [Respuesta]
-- Criterio de ISO 5457 aplicado: [Respuesta]
-- ¿Qué parte de la selección es una decisión didáctica de la plantilla?: [Respuesta]
+- Formato seleccionado: [ISO A3 (420 x 297 mm)]
+- Orientación seleccionada: [Horizontal]
+- Escala inicial seleccionada: [1:1 , 3:1]
+- Justificación técnica: [ El cambio a formato A3 horizontal soluciona la saturación de espacio previa en A4 vertical, permitiendo cumplir con las distancias mínimas requeridas por ISO 129-1 entre líneas de cota y contornos del componente.]
+- Criterio de ISO 5457 aplicado: [Uso de márgenes normalizados de 20 mm en zona de archivado y 10 mm en bordes restantes con cuadro de rotulación en esquina inferior derecha.]
+- ¿Qué parte de la selección es una decisión didáctica de la plantilla?: [La inclusión de una vista isométrica sombreada como referencia auxiliar dentro de la misma lámina.]
 
 ### Evidencias P1
 
@@ -120,11 +120,14 @@ Si la plantilla o la versión de Fusion no permite mostrar un dato, escriba la l
 
 Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecuado para el plano.
 
-![P1: Plano inicial](S12_P1_PlanoInicial_Apellido_Nombre.png)
+![P1: Plano inicial](S12_P1_PlanoInicial_Loaisiga_Nohelia.png)<img width="642" height="446" alt="image" src="https://github.com/user-attachments/assets/fc5ece72-eb82-4415-bb68-8fd7b54fa352" />
 
-![P1: Diagnóstico](S12_P1_Diagnostico_Apellido_Nombre.png)
 
-![P1: Decisión de formato](S12_P1_DecisionFormato_Apellido_Nombre.png)
+![P1: Diagnóstico](S12_P1_Diagnostico_Loaisiga_Nohelia.png)<img width="964" height="443" alt="image" src="https://github.com/user-attachments/assets/3c8837ab-9bb1-4e16-bba7-dfe1631015df" />
+
+
+![P1: Decisión de formato](S12_P1_DecisionFormato_Loaisiga_Nohelia.png)<img width="826" height="425" alt="image" src="https://github.com/user-attachments/assets/0a6419a7-d911-4873-b7db-efe138e38767" />
+
 
 ## P2 — Aplicación de hoja, distribución y cajetín
 
@@ -148,29 +151,29 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 ### P2.1 · Configuración aplicada
 
-- Formato final de la hoja: [Respuesta]
-- Orientación: [Respuesta]
-- Unidades: [Respuesta]
-- Escala escrita en el cajetín: [Respuesta]
-- Escala configurada en las vistas: [Respuesta]
-- ¿Coinciden ambas escalas?: [Sí/No]
-- Campos completados del cajetín: [Respuesta]
-- Número de identificación del documento: [Respuesta]
-- Fecha de emisión o entrega: [Respuesta]
-- Autor: [Respuesta]
-- Estado o revisión: [Respuesta]
-- Campos normativos no disponibles en Fusion: [Respuesta]
+- Formato final de la hoja: [ ISO A3]
+- Orientación: [Horizontal]
+- Unidades: [mm]
+- Escala escrita en el cajetín: [1:1]
+- Escala configurada en las vistas: [1:1 (Detalle 3:1)]
+- ¿Coinciden ambas escalas?: [Sí]
+- Campos completados del cajetín: [Asignatura, Título de Pieza, DIBUJADO (Nombre), FECHA, ESCALA, UNIDADES, REVISIÓN, PROYECTO]
+- Número de identificación del documento: [ICT401-S12-05]
+- Fecha de emisión o entrega: [9/10/2026]
+- Autor: [Alisson Fernández]
+- Estado o revisión: [Rev. A]
+- Campos normativos no disponibles en Fusion: [Declaración de material estandarizado en campo independiente del cuadro por defecto]
 
 ### P2.2 · Distribución
 
 | Elemento | Posición final | ¿Está alineado o relacionado correctamente? | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Superior-izquierda] | [Sí] | [Reubicada para centrar la proyección global] |
+| Top | [Inferior-izquierda] | [Sí ] | [Alineada verticalmente con respecto a Front] |
+| Right | [Superior-centro] | [Sí ] | [Alineada horizontalmente con respecto a Front] |
+| Corte o sección | [Centro-derecha] | [Sí] | [Identificada como Sección A-A con indicación de plano] |
+| Detalle | [Inferior-centro] | [Sí ] | [Vinculado a zona de encaje mediante Detalle C] |
+| Cajetín | [Inferior-derecha] | [Sí] | [Ajustado a la esquina inferior según INTE/ISO 7200] |
 
 ### Evidencias P2
 
@@ -180,11 +183,12 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 - `S12_P2_Cajetin_Apellido_Nombre.png`: recorte legible del cajetín completo, incluyendo código ICT401, título, autoría, fecha, unidades y escala.
 - `S12_P2_Correcciones_Apellido_Nombre.png`: comparación antes/después o lámina que muestre una corrección real de distribución.
 
-![P2: Distribución](S12_P2_HojaDistribucion_Apellido_Nombre.png)
+![P2: Distribución](S12_P2_HojaDistribucion_Loaisiga_Nohelia.png)<img width="825" height="414" alt="image" src="https://github.com/user-attachments/assets/e6003123-157f-416e-abf0-90ca9ea6e090" />
 
-![P2: Cajetín](S12_P2_Cajetin_Apellido_Nombre.png)
+![P2: Cajetín](S12_P2_Cajetin_Loaisiga_Nohelia.png)<img width="1188" height="366" alt="image" src="https://github.com/user-attachments/assets/0d75b10f-30c9-4a77-aa77-573b32b0bb6a" />
 
-![P2: Corrección](S12_P2_Correcciones_Apellido_Nombre.png)
+![P2: Corrección](S12_P2_Correcciones_Loaisiga_Nohelia.png)<img width="1345" height="610" alt="image" src="https://github.com/user-attachments/assets/00cf10df-07b9-4057-890a-c402a9c1f5e9" />
+
 
 ## P3 — Escala, legibilidad y control de anotaciones
 
@@ -207,23 +211,23 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 ### P3.1 · Control de escala
 
-- Escala antes de la revisión: [Respuesta]
-- Escala después de la revisión: [Respuesta]
-- ¿Se cambió la escala?: [Sí/No]
-- Motivo de la decisión: [Respuesta]
-- ¿La escala del cajetín coincide?: [Sí/No]
-- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: [Sí/No]
-- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: [Sí/No]
+- Escala antes de la revisión: [1:2.5 ]
+- Escala después de la revisión: [1:1]
+- ¿Se cambió la escala?: [Sí]
+- Motivo de la decisión: [La escala 1:2.5 reducía excesivamente los radios de empalme dificultando la acotación clara.]
+- ¿La escala del cajetín coincide?: [Sí]
+- ¿Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar?: [Sí]
+- ¿Las cotas se ubican en la vista más clara y evitan líneas ocultas?: [Sí]
 
 ### P3.2 · Control de legibilidad
 
 | Elemento revisado | Problema encontrado | Corrección | Resultado verificado |
 |---|---|---|---|
-| Cotas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Texto y notas | [Respuesta] | [Respuesta] | [Respuesta] |
-| Corte o sección | [Respuesta] | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] | [Respuesta] |
-| Tolerancia | [Respuesta] | [Respuesta] | [Respuesta] |
+| Cotas | [Cota lineal sobrepasaba línea del marco] | [Reubicación interna en vista superior] | [Legible] |
+| Texto y notas | [Letras de sección pequeñas] | [Incremento de tamaño de etiqueta A-A a 5 mm] | [Legible] |
+| Corte o sección | [Achurado muy denso en sección] | [Ajuste de trama del patrón de rayado a escala 1.5] | [Legible] |
+| Detalle | [Círculo de detalle cortaba cota] | [Ampliación del radio de la zona C identificada] | [Verificado] |
+| Tolerancia | [Tolerancia dimensional amontonada] | [Alineación axial de textos según ISO 129-1] | [Legible] |
 
 ### Evidencias P3
 
@@ -235,11 +239,12 @@ Una captura aislada del cuadro de diálogo no demuestra que el formato sea adecu
 
 Si no cambió la escala, la ficha debe explicar por qué la escala inicial conservaba la legibilidad.
 
-![P3: Hoja completa](S12_P3_HojaCompleta_Apellido_Nombre.png)
+![P3: Hoja completa](S12_P3_HojaCompleta_Loaisiga_Nohelia.png)<img width="770" height="421" alt="image" src="https://github.com/user-attachments/assets/c98989f2-9a2b-43c5-a063-b5d6bc312c6c" />
 
-![P3: Legibilidad](S12_P3_Legibilidad_Apellido_Nombre.png)
+![P3: Legibilidad](S12_P3_Legibilidad_Loaisiga_Nohelia.png)<img width="995" height="349" alt="image" src="https://github.com/user-attachments/assets/2c48fbe9-b16a-48f6-834d-dc40405b41e1" />
 
-![P3: Control de escala](S12_P3_ControlEscala_Apellido_Nombre.png)
+![P3: Control de escala](S12_P3_ControlEscala_Loaisiga_Nohelia.png)<img width="1182" height="312" alt="image" src="https://github.com/user-attachments/assets/96e2e02a-6427-47e9-8836-9c7c4ef38d6a" />
+
 
 ## P4 — Salidas PDF/DXF y previsualización técnica
 
@@ -273,8 +278,8 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 | Archivo | Comando utilizado | Unidades | Hoja/orientación | ¿Coincide con Drawing? | Corrección |
 |---|---|---|---|---|---|
-| PDF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No] | [Respuesta] |
-| DXF | [Respuesta] | [Respuesta] | [Respuesta] | [Sí/No/No solicitado] | [Respuesta] |
+| PDF | [Output > PDF] | [mm] | [ISO A3 / Horizontal] | [Sí] | [Vectorización limpia sin pérdida de fuentes] |
+| DXF | [ Output > DXF] | [mm] | [ISO A3 / Horizontal] | [Sí] | [Verificada exportación de capas de cotas y ejes] |
 
 ### Evidencias P4
 
@@ -285,13 +290,14 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - `S12_P4_DXF_Apellido_Nombre.png`: DXF abierto o ventana de exportación con nombre y unidades, cuando se solicite.
 - `S12_P4_Comparacion_Apellido_Nombre.png`: una sola lámina con recortes etiquetados `Fusion Drawing`, `PDF` y `DXF`.
 
-![P4: Drawing](S12_P4_Drawing_Apellido_Nombre.png)
+![P4: Drawing](S12_P4_Drawing_Loaisiga_Nohelia.png)<img width="755" height="429" alt="image" src="https://github.com/user-attachments/assets/8934e6c9-9172-4529-9bdc-7b7abfb14a62" />
 
-![P4: PDF](S12_P4_PDF_Apellido_Nombre.png)
+![P4: PDF](S12_P4_PDF_Loaisiga_Nohelia.png)<img width="532" height="377" alt="image" src="https://github.com/user-attachments/assets/f3227283-c6d7-4469-bb18-ee53daa47dbe" />
 
-![P4: DXF](S12_P4_DXF_Apellido_Nombre.png)
+![P4: DXF](S12_P4_DXF_Loaisiga_Nohelia.png)<img width="518" height="366" alt="image" src="https://github.com/user-attachments/assets/9b9fa380-f741-4957-964b-6f60304aeb56" />
 
-![P4: Comparación](S12_P4_Comparacion_Apellido_Nombre.png)
+![P4: Comparación](S12_P4_Comparacion_Loaisiga_Nohelia.png)<img width="1307" height="767" alt="image" src="https://github.com/user-attachments/assets/e701a5cd-a4c9-4a91-8fbd-aa5d1142176e" />
+
 
 ## P5 — Laboratorio integrador II-A, impresión y entrega
 
@@ -319,33 +325,33 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ### P5.1 · Checklist
 
-- [ ] El modelo y el Drawing corresponden a la misma pieza.
-- [ ] El formato y la orientación son adecuados.
-- [ ] El cajetín está completo y legible.
-- [ ] El formato, marco y zona de identificación fueron revisados con el criterio de ISO 5457.
-- [ ] Los campos del cajetín fueron contrastados con INTE/ISO 7200:2008 y las limitaciones quedaron registradas.
-- [ ] La escala del cajetín coincide con la configuración del plano.
-- [ ] Las vistas están alineadas y no falta información necesaria.
-- [ ] El corte, la sección y el detalle conservan su identificación.
-- [ ] Las cotas y tolerancias son legibles y no están superpuestas.
-- [ ] Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar, y se revisaron con ISO 129-1.
-- [ ] El PDF abre correctamente y coincide con el Drawing.
-- [ ] El DXF fue generado y revisado cuando corresponde.
-- [ ] La previsualización de impresión no presenta recortes ni deformaciones.
-- [ ] La ficha y las imágenes tienen la nomenclatura solicitada.
-- [ ] El enlace de Fusion Cloud tiene acceso docente.
-- [ ] Modelo, Drawing y archivos exportados no presentan contradicciones y la revisión o versión quedó identificada.
-- [ ] La Fase 2 del Proyecto fue entregada según su enunciado.
+- [ X ] El modelo y el Drawing corresponden a la misma pieza.
+- [ X ] El formato y la orientación son adecuados.
+- [ X ] El cajetín está completo y legible.
+- [ X ] El formato, marco y zona de identificación fueron revisados con el criterio de ISO 5457.
+- [ X ] Los campos del cajetín fueron contrastados con INTE/ISO 7200:2008 y las limitaciones quedaron registradas.
+- [ X ] La escala del cajetín coincide con la configuración del plano.
+- [ X ] Las vistas están alineadas y no falta información necesaria.
+- [ X ] El corte, la sección y el detalle conservan su identificación.
+- [ X ] Las cotas y tolerancias son legibles y no están superpuestas.
+- [ X ] Las cotas necesarias aparecen una sola vez, salvo indicación auxiliar, y se revisaron con ISO 129-1.
+- [ X ] El PDF abre correctamente y coincide con el Drawing.
+- [ X ] El DXF fue generado y revisado cuando corresponde.
+- [ X ] La previsualización de impresión no presenta recortes ni deformaciones.
+- [ X ] La ficha y las imágenes tienen la nomenclatura solicitada.
+- [ X ] El enlace de Fusion Cloud tiene acceso docente.
+- [ X ] Modelo, Drawing y archivos exportados no presentan contradicciones y la revisión o versión quedó identificada.
+- [ X ] La Fase 2 del Proyecto fue entregada según su enunciado.
 
 ### P5.2 · Revisión por pares
 
 | Criterio | Observación recibida | Corrección aplicada |
 |---|---|---|
-| Formato y orientación | [Respuesta] | [Respuesta] |
-| Cajetín | [Respuesta] | [Respuesta] |
-| Escala y legibilidad | [Respuesta] | [Respuesta] |
-| Distribución de vistas | [Respuesta] | [Respuesta] |
-| PDF/DXF e impresión | [Respuesta] | [Respuesta] |
+| Formato y orientación | [El plano en A4 vertical dificultaba la lectura de la sección A-A] | [ Se adoptó el formato A3 Horizontal según ISO 5457.] |
+| Cajetín | [Faltaba la fecha de emisión y la designación de la revisión] | [Se completó con fecha 09/10/2026 y revisión Rev. A.] |
+| Escala y legibilidad | [Cotas de diámetro sobrepuestas en la vista de perfil.] | [Se distribuyeron en vista frontal e isométrica según ISO 129-1] |
+| Distribución de vistas | [La sección A-A estaba desconectada de su indicación] | [Se desplazó a la zona derecha manteniendo eje de alineación.] |
+| PDF/DXF e impresión | [Escala de impresión desajustada al exportar PDF.] | [Se fijó la escala 1:1 en opciones de trazado sin escala de ajuste.] |
 
 ### Evidencias P5
 
@@ -356,51 +362,51 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 - `S12_P5_PrevisualizacionImpresion_Apellido_Nombre.png`: previsualización con papel, orientación, escala y márgenes visibles.
 - `S12_P5_Entrega_Apellido_Nombre.png`: carpeta o plataforma oficial de entrega mostrando ficha, PDF, DXF cuando corresponda y archivos organizados.
 
-![P5: Plano final](S12_P5_PlanoFinal_Apellido_Nombre.png)
+![P5: Plano final](S12_P5_PlanoFinal_Loaisiga_Nohelia.png)<img width="815" height="455" alt="image" src="https://github.com/user-attachments/assets/96d15b6b-5cce-4e2f-8e9b-1b13af41bef2" />
 
-![P5: Verificación](S12_P5_VerificacionModelo_Apellido_Nombre.png)
+![P5: Verificación](S12_P5_VerificacionModelo_Loaisiga_Nohelia.png)<img width="1027" height="327" alt="image" src="https://github.com/user-attachments/assets/4fcf9b3c-1069-4427-9607-9a42d9cdbc4a" />
 
-![P5: Impresión](S12_P5_PrevisualizacionImpresion_Apellido_Nombre.png)
+![P5: Impresión](S12_P5_PrevisualizacionImpresion_Loaisiga_Nohelia.png)<img width="512" height="421" alt="image" src="https://github.com/user-attachments/assets/6c3f47da-a4bf-4cd4-868a-c8a632a5f94a" />
 
-![P5: Entrega](S12_P5_Entrega_Apellido_Nombre.png)
+![P5: Entrega](S12_P5_Entrega_Loaisiga_Nohelia.png)
 
 ## Reflexión final
 
 ### 1. ¿Por qué el formato seleccionado es adecuado para este plano?
 
-[Respuesta]
+[El formato ISO A3 Horizontal ofrece la superficie necesaria para disponer las proyecciones ortogonales, el plano de corte A-A, el Detalle C a escala ampliada 3:1 y la vista tridimensional isométrica, garantizando una lectura despejada de cotas y notas técnicas.]
 
 ### 2. ¿Qué información del cajetín identifica o contextualiza el plano?
 
-[Respuesta]
+[El cajetín contextualiza el documento mediante el código de la materia (ICT401), el nombre de la pieza (04_Soporte_Ajustable), el nombre del estudiante (Alisson Fernández), la fecha de entrega, el estado de revisión (Rev. A), las unidades de medida (mm) y la escala general de representación (1:1).]
 
 ### 3. ¿Qué problema de escala o legibilidad detecté y cómo lo resolví?
 
-[Respuesta]
+[Detecté que en la escala 1:2.5 en formato A4 las anotaciones de tolerancias dimensionales se traslapaban con las líneas de centro. Lo resolví cambiando a escala 1:1 en hoja A3 y aplicando una vista ampliada de detalle (3:1) para las zonas de acople más pequeñas.]
 
 ### 4. ¿Qué diferencia encontré entre el Drawing y la salida exportada?
 
-[Respuesta]
+[El PDF mantuvo una definición vectorial exacta de las líneas de contorno y ejes. En la salida DXF se observó que la geometría se exportó dividida en bloques organizados por capas de cotas y textos, facilitando su lectura en entornos CAD de terceros.]
 
 ### 5. ¿Cómo comprobé que la impresión no deformara ni recortara el plano?
 
-[Respuesta]
+[Mediante la vista previa de Output > Print, seleccionando la configuración de tamaño de papel ISO A3, orientación Horizontal y asegurando la opción de escala 100% (sin activación de Fit to page) para evitar deformaciones dimensionales.]
 
 ### 6. ¿Qué corrección mejoró más la calidad del plano?
 
-[Respuesta]
+[La reubicación exterior de las cotas y el ordenamiento de los textos de sección, eliminando cruces con la geometría del modelo y aplicando rigurosamente los lineamientos de la norma ISO 129-1.]
 
 ## Cierre de la ficha
 
-- [ ] Completé las respuestas de P1 a P5.
-- [ ] Incorporé todas las evidencias con la nomenclatura solicitada.
-- [ ] Las imágenes se visualizan correctamente desde el medio oficial de entrega.
-- [ ] El PDF fue abierto y comparado con el Drawing.
-- [ ] El DXF fue revisado cuando correspondía.
-- [ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Documenté las correcciones sin borrar decisiones iniciales.
-- [ ] La Fase 2 del Proyecto fue organizada según su rúbrica.
-- [ ] Entregué los últimos cambios mediante el medio oficial indicado.
+- [ x ] Completé las respuestas de P1 a P5.
+- [ x ] Incorporé todas las evidencias con la nomenclatura solicitada.
+- [ x ] Las imágenes se visualizan correctamente desde el medio oficial de entrega.
+- [ x ] El PDF fue abierto y comparado con el Drawing.
+- [ x ] El DXF fue revisado cuando correspondía.
+- [ x ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
+- [ x ] Documenté las correcciones sin borrar decisiones iniciales.
+- [ x ] La Fase 2 del Proyecto fue organizada según su rúbrica.
+- [ x ] Entregué los últimos cambios mediante el medio oficial indicado.
 
 Nombre sugerido para la entrega: `S12_PlanoFinal_Apellido_Nombre`.
 
