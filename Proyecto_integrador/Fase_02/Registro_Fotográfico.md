@@ -1,28 +1,45 @@
-## Registro Fotográfico del Modelo 3D  Tapa Dispensadora para Bolsas de granos
-
-## 1. Información General del Proyecto
-Universidad Nacional de Costa Rica, Campus Liberia, Curso Dibujo Técnico Asistido por Computadora, Profesor Oscar Carava Mora, Integrantes Nohelia Loaisiga Sandoval y Tamara Sequeira Rosales, Herramienta de diseño Autodesk Fusion
-## 2. Descripción del Proyecto
-Los modelos  fueron desarrollados en Autodesk Fusion manteniendo un historial de operaciones limpio, editable y comprensible. 
-El proyecto se divide en partes independientes para garantizar un correcto ensamblaje.
-Entre esas partes esta la pieza 1 que es el **Cuerpo roscado**que muestra una geometría cilíndrica hueca con rosca exterior paramétrica.
-También la Pieza 2 que es la  **Tapa** una estructura de sellado que incorpora un asa semicircular paramétrica para maniobrabilidad.
-Y por ultima la Pieza 3 el **Tapón** es el elemento de agarre interna con ranuras verticales para facilitar el agarre manual. 
-## 3. Objetivo del Registro Fotográfico 
-El objetivo principal de esta sección es documentar gráficamente el flujo de modelado tridimensional desarrollado en Autodesk Fusion.  
-Asimismo cada figura cuenta con una descripción analítica que detalla el componente visualizado, su función mecánica o estructural dentro del conjunto y su relevancia para la comprensión integral del proyecto.
-
-## 4. Evidencias 
-## **Evidencia 1**  
-Descripción de la imagen, muestra un componente cilíndrico hueco con una pestaña de apoyo o ala ancha en su base inferior y un roscado exterior a lo largo de su superficie vertical.  
-Función dentro del proyecto, actúa como la estructura soporte base. Se introduce por el interior de la abertura de la bolsa de granos y sirve como guía y canal principal de flujo para el vertido del contenido.  
-<img width="717" height="486" alt="image" src="https://github.com/user-attachments/assets/27503f2d-21f6-4007-a170-86f40a29e6fd" />
-## **Evidencia 2**
-Descripción de la imagen presenta un cuerpo cilíndrico con rosca interna, un orificio central en la cara superior y una textura exterior con estriado/moleteado vertical para mejorar el agarre.  
-Función dentro del proyecto, senrosca sobre la base aprisionando y sellando el borde de la bolsa plástica entre ambas piezas mediante presión. El orificio central funciona como la boquilla dispensadora del grano. 
-<img width="515" height="447" alt="image" src="https://github.com/user-attachments/assets/faafbcb7-4aaa-4fbf-875a-992a2c3cdb3a" />
-## **Evidencia 3**
-Descripción de la imagen, muestra un tapón cilíndrico con un asa en forma de arco articulado/semicircular en la parte superior y una sección inferior escalonada para ajuste a presión.  
-Función dentro del proyecto, se encaja a presión en el orificio central de la tapa roscada, actuando como el mecanismo de apertura y cierre rápido para servir los alimentos sin necesidad de desenroscar todo el sistema.
-<img width="355" height="321" alt="image" src="https://github.com/user-attachments/assets/f642afe9-bf21-4228-b9c5-8c2fcee3502a" />
-
+Fase 2: Modelado 3D en Autodesk Fusion 360 Tapa Dispensadora
+1. Información general
+| Campo | Información |
+|---|---|
+| Proyecto | Tapa dispensadora |
+| Fase | 2 |
+| Software | Autodesk Fusion |
+| Estudiante | Nohelia Loaisiga Sandoval |
+| Curso | Dibujo Técnico Asistido por Computadoras |
+| Fecha de entrega | 25/10/2026 |
+2. Descripción del proyecto
+En esta fase se desarrolla el modelo tridimensional de la tapa dispensadora utilizando Autodesk Fusion, siguiendo el croquis y las indicaciones del proyecto integrador (curso ICT401). El proceso incluye la construcción del cuerpo principal con rosca, la boquilla de vertido, la tapa con asa y los detalles geométricos correspondientes. Se realizaron ajustes dimensionales durante el proceso para asegurar un acople funcional y una proporción adecuada del mecanismo de vertido.
+3. Objetivos
+ * Construir el modelo tridimensional de la tapa dispensadora en Autodesk Fusion.
+ * Aplicar dimensiones establecidas en el croquis y ajustar tolerancias para componentes roscados.
+ * Modelar el cuerpo principal con rosca exterior, la boquilla y el asa abatible o superior.
+ * Registrar el procedimiento mediante evidencias visuales del modelado.
+4. Herramientas utilizadas
+ * Autodesk Fusion: diseño y modelado tridimensional.
+ * GitHub: almacenamiento y documentación del proyecto en formato Markdown.
+ * Capturas de pantalla: evidencias del proceso de modelado.
+5. Dimensiones del modelo
+Nota: Algunas medidas se ajustaron respecto al croquis inicial para optimizar el ajuste mecánico y la funcionalidad del dispensador.
+| Elemento | Dimensión |
+|---|---|
+| Cuerpo principal (Base roscada) | Diámetro exterior con rosca para acople en bolsa |
+| Boquilla de vertido | Elemento cilíndrico superior con diseño estriado para agarre |
+| Tapa / Asa de vertido | Estructura superior con asa integrada |
+6. Procedimiento de modelado
+6.1. Preparación del diseño y cuerpo roscado
+Se inicia la creación de los perfiles base y la estructuración del cilindro con rosca exterior en Autodesk Fusion.
+Evidencia 1. Preparación del diseño (Cuerpo roscado)
+6.2. Construcción de la boquilla estriada
+Se modela la sección cilíndrica intermedia incorporando detalles de estrías perimetrales para facilitar la manipulación manual de la pieza.
+Evidencia 2. Boquilla y elementos estriados
+6.3. Ensamblaje y modelo final de la tapa dispensadora
+Se integran los componentes principales junto con el asa superior para conformar el conjunto completo del dispositivo de vertido.
+Evidencia 3. Modelo final de la tapa dispensadora
+7. Dificultades encontradas
+Durante el desarrollo del modelado se presentaron retos técnicos menores relacionados con la parametrización de las roscas y la simetría de las estrías de agarre.
+| Dificultad | Acción |
+|---|---|
+| Definición de roscas y tolerancias | Ajustar las operaciones de roscado en Fusion para asegurar una correcta visualización y proporción con el cuerpo de la boquilla. |
+| Modelado de estrías perimetrales | Aplicar patrones circulares sobre el contorno cilíndrico para mantener la simetría del agarre. |
+| Documentación | Capturar de forma detallada cada etapa del proceso en el espacio de trabajo. |
