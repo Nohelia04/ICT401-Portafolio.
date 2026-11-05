@@ -138,7 +138,7 @@ Desviación = 84,06 - 84,00 = +0,06 mm Dentro del rango permitido de +-0,20mm
 | Estado inicial y auditoría | `evidencias/S16_E1_Estado_Inicial.png` | [x] | Modelo 3D activo en Fusion |
 | Exportaciones y comprobación | `evidencias/S16_E2_Exportaciones.png` | [x] | Archivos PDF/STEP/STL validados |
 | Control dimensional | `evidencias/S16_E3_Control_Dimensional.png` | [x] | Cota de 84,06 mm verificada |
-| Plano final o documentación | `evidencias/S16_E4_Plano_Final.pdf` | [x] | Error en el nombre |
+| Plano final o documentación | `S16_E4_Nombre_Corregido.png` | [x] | Error en el nombre |
 | Lista básica, si corresponde | `evidencias/S16_E1_Parts_List.png` | [x] | Lista con P1, P2 y P3 |
 | Archivo de respaldo | `salidas/Proyecto_integrador_ensamblaje222.f3d` | [x] | Respaldo nativo de Fusion |
 | Ficha completa | `Ficha_Laboratorio_Integrador_IIB.md` | [x] | Ficha diligenciada en su totalidad |
