@@ -18,7 +18,7 @@ Los archivos nativos correspondientes al proyecto se encuentran en las carpetas 
 
 ### Archivos de Autodesk Fusion
 
-Los archivos nativos correspondientes al proyecto se encuentran en las carpetas de Autodesk Fusion 360 llamadas **Dinoska Carrillo** y **Leslie Rivel**.
+Los archivos nativos correspondientes al proyecto se encuentran en las carpetas de Autodesk Fusion 360 llamadas Nohelia Loaisiga yTamara Sequeira.
 
 | **Archivo** | **Descripción** |
 |---|---|
