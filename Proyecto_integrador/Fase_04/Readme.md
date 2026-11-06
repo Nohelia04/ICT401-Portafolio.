@@ -143,13 +143,16 @@ Se realizó una revisión de las cotas y de la representación de las piezas par
 
 <img width="1343" height="689" alt="image" src="https://github.com/user-attachments/assets/bf479a82-1e03-4b6b-a05e-29466e317354" />
 
+<img width="1360" height="687" alt="image" src="https://github.com/user-attachments/assets/f06fcbfa-ad94-4daa-9cf3-872683606cb6" />
+
+
 ## 8. Archivos de intercambio y documentación final
 
 En esta sección se incorporan los enlaces a los archivos derivados del proyecto, para facilitar su consulta y descarga.
 
 | **Archivo** | **Formato** | **Enlace** |
 |---|---|---|
-| Plano Técnico | PDF | [Descargar PDF](Proyecto_integrador_ensamblaje222Dibujo.pdf) |
+| Plano Técnico | PDF |[Descargar PDF](Proyecto_integrador_ensamblaje222Dibujo.pdf) |
 | Plano Técnico editable | DXF | [Descargar DXF](Proyecto_integrador_ensamblaje222.dxf)|
 | Modelo tridimensional | STEP | [Descargar STE](Proyecto_integrador_ensamblaje222.step)|
 | Modelo para impresión 3D | STL |  [Descargar STL](Proyecto_integrador_ensamblaje222.stl) |
