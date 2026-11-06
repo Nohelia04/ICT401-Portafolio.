@@ -1,4 +1,4 @@
-# Fase 4 — Documentación técnica del dispensador
+# Fase 4 — Documentación técnica y Archivos finales del dispensador
 
 ## 1. Información general
 
@@ -12,10 +12,13 @@
 | Entrega | Semana 16 |
 
 ---
+### Archivos de Autodesk Fusion
+
+Los archivos nativos correspondientes al proyecto se encuentran en las carpetas de Autodesk Fusion 360 llamadas Tamara Sequeira y Nohelia Loaisiga.
 
 ## 2. Introducción al proyecto
 
-En esta fase se desarrolla la documentación técnica final del dispensador diseñado en Autodesk Fusion 360. Se trabaja con el ensamblaje de sus componentes, las relaciones mecánicas, la revisión del movimiento y la elaboración de los planos técnicos.
+En esta fase se desarrollara la documentación técnica final del dispensador diseñado en Autodesk Fusion 360. Se trabaja con el ensamblaje de sus componentes, las relaciones mecánicas, la revisión del movimiento y la elaboración de los planos técnicos.
 
 El proyecto integra tres componentes principales que conforman el diseño del dispensador: P1, P2 y P3. Cada pieza cumple una función dentro de la estructura y el funcionamiento del conjunto.
 
@@ -50,10 +53,9 @@ El diseño está integrado por tres componentes principales:
 
 A continuación, se presenta el modelo tridimensional del dispensador, en el que se observa la integración de sus componentes y su configuración general.
 
-![Modelo tridimensional final del dispensador](imagenes/dispensador_final.png)<img width="229" height="164" alt="imagenes/dispensador_final" src="https://github.com/user-attachments/assets/255166e8-f783-4c4b-a2db-c5ca92c5e459" />
-
 
 **Figura 1.** Modelo tridimensional del dispensador desarrollado en Autodesk Fusion 360.
+![Modelo tridimensional final del dispensador](imagenes/dispensador_final.png)<img width="229" height="164" alt="imagenes/dispensador_final" src="https://github.com/user-attachments/assets/255166e8-f783-4c4b-a2db-c5ca92c5e459" />
 
 
 ---
@@ -94,3 +96,67 @@ Se comprobó el comportamiento de las relaciones mecánicas configuradas en el e
 La unión cilíndrica permitió observar el movimiento de giro y desplazamiento del componente conectado, mientras que la unión rígida mantuvo fija la posición relativa de los componentes vinculados.
 
 Las capturas anteriores muestran el comportamiento de ambas relaciones durante su comprobación.
+
+## 6.3. Acotación y tolerancias dimensionales
+
+Para el plano técnico se incorporaron las dimensiones necesarias para representar las características geométricas de la tapa dispensadora.
+
+Se aplicó una tolerancia dimensional al diámetro de encaje y giro del mecanismo interno mediante la opción **Deviation**, estableciendo una desviación superior de **+0.15 mm** y una inferior de **-0.05 mm** respecto a la dimensión nominal.
+
+Esta configuración permite representar los límites de variación requeridos para evitar fugas de granos pequeños y asegurar que la pieza gire suavemente sin atascarse.
+
+### Tabla de tolerancias dimensionales
+
+| **Criterio** | **Valor** |
+|---|---|
+| Tipo de tolerancia | Deviation |
+| Desviación superior | +0.15 mm |
+| Desviación inferior | -0.05 mm |
+
+<img width="1358" height="629" alt="image" src="https://github.com/user-attachments/assets/0c8f0a9d-4310-4b9c-b0af-5eb3890f634b" />
+
+## 7. Elaboración del plano técnico (Drawing)
+
+Se elaboró el Drawing de la tapa dispensadora de granos en Fusion, incorporando las vistas principal, de sección (corte) y acotaciones correspondientes al modelo tridimensional.
+
+El plano permite observar el perfil de agarre lateral, el sistema de dosificación y las dimensiones requeridas para interpretar la geometría completa.
+
+Se realizó una revisión de las cotas y de la representación de las piezas para mantener la exactitud entre el modelo 3D y el dibujo técnico.
+
+**Evidencia del plano técnico completo:**
+
+<img width="1343" height="689" alt="image" src="https://github.com/user-attachments/assets/bf479a82-1e03-4b6b-a05e-29466e317354" />
+
+## 8. Archivos de intercambio y documentación final
+
+En esta sección se incorporan los enlaces a los archivos derivados del proyecto, para facilitar su consulta y descarga.
+
+| **Archivo** | **Formato** | **Enlace** |
+|---|---|---|
+| Plano Técnico | PDF | [Descargar PDF](aqui_pegas_el_enlace_del_pdf) |
+| Plano Técnico editable | DXF | [Descargar DXF](aqui_pegas_el_enlace_del_dxf) |
+| Modelo tridimensional | STEP | [Descargar STEP](aqui_pegas_el_enlace_del_step) |
+| Modelo para impresión 3D | STL |  [Descargar STL](aqui_pegas_el_enlace_del_stl) |
+
+## 9. Dificultades y decisiones técnicas
+
+### Dificultad principal
+
+Establecer las relaciones de junta y restricciones de movimiento en Autodesk Fusion para que el mecanismo dosificador rotara de forma fluida sin interferir geométricamente con el cuerpo de la tapa.
+
+### Decisión técnica más importante
+
+Adoptar un sistema de tolerancias de ajuste deslizante en las zonas de contacto entre la pieza móvil y la base de la tapa, además de incorporar estrías laterales exteriorizadas para mejorar el agarre ergonómico durante la manipulación manual.
+
+### Resultado final
+
+Se completó exitosamente la documentación técnica de la tapa dispensadora de granos mediante el modelo tridimensional final, las animaciones de apertura y cierre, la configuración de tolerancias dimensionales y la emisión de los planos técnicos Drawing.
+
+---
+
+## 10. Archivos de Fusion
+
+| **Archivo** | **Enlace** |
+|---|---|
+| Drawing |  https://a360.co/4it5QZq|
+| Animación | https://a360.co/4zenpCg |
