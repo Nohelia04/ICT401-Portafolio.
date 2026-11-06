@@ -16,6 +16,18 @@
 
 Los archivos nativos correspondientes al proyecto se encuentran en las carpetas de Autodesk Fusion 360 llamadas Tamara Sequeira y Nohelia Loaisiga.
 
+### Archivos de Autodesk Fusion
+
+Los archivos nativos correspondientes al proyecto se encuentran en las carpetas de Autodesk Fusion 360 llamadas **Dinoska Carrillo** y **Leslie Rivel**.
+
+| **Archivo** | **Descripción** |
+|---|---|
+| `Proyecto_integrador_ensamblaje` | Ensamble general completo de la tapa dispensadora de granos. |
+| `P1_Tapa_proyecto_Integrador1` | Componente principal del cuerpo/base de la tapa dispensadora. |
+| `P2_Proyecto_Integrador1` | Mecanismo interno / dosificador rotativo de granos. |
+| `P3_tapa_proyecto_Integrador1` | Comprobadora / Cubierta superior de la boquilla dispensadora. |
+
+
 ## 2. Introducción al proyecto
 
 En esta fase se desarrollara la documentación técnica final del dispensador diseñado en Autodesk Fusion 360. Se trabaja con el ensamblaje de sus componentes, las relaciones mecánicas, la revisión del movimiento y la elaboración de los planos técnicos.
@@ -55,7 +67,8 @@ A continuación, se presenta el modelo tridimensional del dispensador, en el que
 
 
 **Figura 1.** Modelo tridimensional del dispensador desarrollado en Autodesk Fusion 360.
-![Modelo tridimensional final del dispensador](imagenes/dispensador_final.png)<img width="229" height="164" alt="imagenes/dispensador_final" src="https://github.com/user-attachments/assets/255166e8-f783-4c4b-a2db-c5ca92c5e459" />
+![Modelo tridimensional final del dispensador](imagenes/dispensador_final.png)
+<img width="691" height="521" alt="image" src="https://github.com/user-attachments/assets/218e76e5-dfa8-4d26-b49d-b5430d6f6d3f" />
 
 
 ---
@@ -70,7 +83,8 @@ El ensamblaje está compuesto por los tres componentes principales del dispensad
 
 **Figura 2.** Ensamblaje de los componentes del dispensador.
 
- <img width="419" height="164" alt="componentes" src="https://github.com/user-attachments/assets/c8da52ae-367e-4385-8e6c-e9a86c150ba1" />
+<img width="918" height="362" alt="image" src="https://github.com/user-attachments/assets/900333c7-9097-4947-81b2-aeb431a6cf05" />
+
  
 
 ### 6.2. Relaciones de unión
@@ -84,9 +98,11 @@ Para establecer la posición y el comportamiento de los componentes se utilizaro
 
 **Figura 3.** Relaciones mecánicas configuradas en Autodesk Fusion 360.
 
-[Relación de unión cilíndrica]<img width="223" height="130" alt="image" src="https://github.com/user-attachments/assets/f88d5c7b-443d-46bf-837f-f25d981ae070" />
+[Relación de unión cilíndrica]<img width="853" height="510" alt="image" src="https://github.com/user-attachments/assets/6775277b-dcb5-4cdb-b89a-f6bd11db7fa2" />
 
-[Relación de unión rígida]<img width="203" height="138" alt="relaciones_unión_rígida" src="https://github.com/user-attachments/assets/3d7235f0-5cfd-4d7b-a27f-e5a0b95d4c38" />
+
+[Relación de unión rígida]<img width="755" height="503" alt="image" src="https://github.com/user-attachments/assets/094dc03e-a5bb-4132-b582-af4e3b50f3a4" />
+
 
 
 ### 6.3. Verificación del movimiento del ensamblaje
@@ -133,10 +149,10 @@ En esta sección se incorporan los enlaces a los archivos derivados del proyecto
 
 | **Archivo** | **Formato** | **Enlace** |
 |---|---|---|
-| Plano Técnico | PDF | [Descargar PDF](aqui_pegas_el_enlace_del_pdf) |
-| Plano Técnico editable | DXF | [Descargar DXF](aqui_pegas_el_enlace_del_dxf) |
-| Modelo tridimensional | STEP | [Descargar STEP](aqui_pegas_el_enlace_del_step) |
-| Modelo para impresión 3D | STL |  [Descargar STL](aqui_pegas_el_enlace_del_stl) |
+| Plano Técnico | PDF | [Descargar PDF](Proyecto_integrador_ensamblaje222Dibujo.pdf) |
+| Plano Técnico editable | DXF | [Descargar DXF](Proyecto_integrador_ensamblaje222.dxf)|
+| Modelo tridimensional | STEP | [Descargar STE](Proyecto_integrador_ensamblaje222.step)|
+| Modelo para impresión 3D | STL |  [Descargar STL](Proyecto_integrador_ensamblaje222.stl) |
 
 ## 9. Dificultades y decisiones técnicas
 
