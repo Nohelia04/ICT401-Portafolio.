@@ -152,10 +152,10 @@ En esta sección se incorporan los enlaces a los archivos derivados del proyecto
 
 | **Archivo** | **Formato** | **Enlace** |
 |---|---|---|
-| Plano Técnico | PDF |[Descargar PDF](Proyecto_integrador_ensamblaje222Dibujo.pdf) |
-| Plano Técnico editable | DXF | [Descargar DXF](Proyecto_integrador_ensamblaje222.dxf)|
-| Modelo tridimensional | STEP | [Descargar STE](Proyecto_integrador_ensamblaje222.step)|
-| Modelo para impresión 3D | STL |  [Descargar STL](Proyecto_integrador_ensamblaje222.stl) |
+| Plano Técnico | PDF |Enlace: [PDF](Proyecto_integrador_ensamblaje222Dibujo.pdf)|
+| Plano Técnico editable | DXF |Enlace: [DXF](Proyecto_integrador_ensamblaje222.dxf)|
+| Modelo tridimensional | STEP | Enlace: [STEP](Proyecto_integrador_ensamblaje222.step)|
+| Modelo para impresión 3D | STL |Enlace: [STL](Proyecto_integrador_ensamblaje222.stl) |
 
 ## 9. Dificultades y decisiones técnicas
 
