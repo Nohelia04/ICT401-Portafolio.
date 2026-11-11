@@ -78,12 +78,14 @@ Durante la revisión del ensamblaje en Autodesk Fusion, realicé un análisis de
 
 En el primer análisis se detectó una interferencia entre los componentes *P2 y P3, con un volumen de **804.248 mm³*.
 
-![Resultados de la primera revisión] <img width="734" height="335" alt="interferencia_encontrada" src="https://github.com/user-attachments/assets/f17553a3-f05d-4141-a09a-0202964fbd4a" />
+![Resultados de la primera revisión] <img width="1361" height="613" alt="image" src="https://github.com/user-attachments/assets/8036745b-ca8c-499e-8ddf-c473a3deabfb" />
+
 
 
 La siguiente imagen permite observar la zona donde se presentaba la interferencia entre la tapa y el tapón.
 
-![Interferencia entre tapa y tapón] <img width="558" height="329" alt="interferencia_tapon_tapa" src="https://github.com/user-attachments/assets/5a6b40b1-334a-4f37-ad8f-743f4007676c" />
+![Interferencia entre tapa y tapón] <img width="1365" height="292" alt="image" src="https://github.com/user-attachments/assets/4d02f3f6-48df-4726-bafd-2226a3b96904" />
+
 
 
 ### 2. Identificación del problema
@@ -94,21 +96,24 @@ Al revisar el ensamblaje, se identificó que se había utilizado una versión in
 
 A continuación, se muestran las dos versiones de la pieza:
 
-*Pieza P3 correcta:*
+Pieza P3 correcta:
 
-![Pieza P3 correcta](interferencia_4.png)<img width="344" height="295" alt="image" src="https://github.com/user-attachments/assets/b1c7bc87-971f-4469-a96f-319c6f06c6c5" />
+![Pieza P3 correcta](interferencia_4.png)<img width="787" height="466" alt="image" src="https://github.com/user-attachments/assets/c9191f05-b006-46a1-9d55-756848589764" />
 
 
-*Pieza P3 utilizada inicialmente, que ocasionaba la interferencia:*
 
-![Pieza P3 incorrecta](interferencia_5.png)<img width="318" height="225" alt="image" src="https://github.com/user-attachments/assets/088a9bfe-1d97-4c2d-a7e7-3ce91022f8fb" />
+Pieza P3 utilizada inicialmente, que ocasionaba la interferencia:
+
+![Pieza P3 incorrecta](interferencia_5.png)<img width="720" height="464" alt="image" src="https://github.com/user-attachments/assets/1ed8f9cf-290d-4383-aecc-6a45736d1177" />
+
 
 
 ### 4. Comprobación del ensamblaje
 
 Después de sustituir la pieza, se revisó nuevamente el ensamblaje y comprobé que todos los componentes estuvieran colocados correctamente.
 
-![Ensamblaje completo para revisión](interferencia_6.png) <img width="842" height="181" alt="image" src="https://github.com/user-attachments/assets/edccce08-00cc-40a1-9d72-abd611ab3665" />
+![Ensamblaje completo para revisión](interferencia_6.png) <img width="530" height="458" alt="image" src="https://github.com/user-attachments/assets/2bc799a1-d4f6-46e0-aeda-559ab31e5785" />
+
 
 
 ### 5.3. Resultado final
@@ -117,7 +122,7 @@ Finalmente, se ejecutó nuevamente el análisis de interferencias en Autodesk Fu
 
 El resultado indicó que *no se habían detectado interferencias*, lo que confirmó que el problema inicial había sido solucionado.
 
-![Resultado final sin interferencias](interferencia_7.png)<img width="352" height="151" alt="image" src="https://github.com/user-attachments/assets/dc45fd31-dfbd-4660-83ee-478e1a254ddc" />
+![Resultado final sin interferencias](interferencia_7.png)<img width="868" height="460" alt="image" src="https://github.com/user-attachments/assets/07757571-7491-4b05-b545-d01fd7f71b70" />
 
 
 
