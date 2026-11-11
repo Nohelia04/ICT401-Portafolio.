@@ -70,7 +70,59 @@ A continuación, se presenta el modelo tridimensional del dispensador, en el que
 ![Modelo tridimensional final del dispensador](imagenes/dispensador_final.png)
 <img width="691" height="521" alt="image" src="https://github.com/user-attachments/assets/218e76e5-dfa8-4d26-b49d-b5430d6f6d3f" />
 
+### 5.2. Detección y corrección de interferencias
 
+Durante la revisión del ensamblaje en Autodesk Fusion, realicé un análisis de interferencias para comprobar que los componentes encajaran correctamente.
+
+### 1. Primera revisión
+
+En el primer análisis se detectó una interferencia entre los componentes *P2 y P3, con un volumen de **804.248 mm³*.
+
+![Resultados de la primera revisión] <img width="734" height="335" alt="interferencia_encontrada" src="https://github.com/user-attachments/assets/f17553a3-f05d-4141-a09a-0202964fbd4a" />
+
+
+La siguiente imagen permite observar la zona donde se presentaba la interferencia entre la tapa y el tapón.
+
+![Interferencia entre tapa y tapón] <img width="558" height="329" alt="interferencia_tapon_tapa" src="https://github.com/user-attachments/assets/5a6b40b1-334a-4f37-ad8f-743f4007676c" />
+
+
+### 2. Identificación del problema
+
+Al revisar el ensamblaje, se identificó que se había utilizado una versión incorrecta de la pieza P3. Por esta razón, fue necesario sustituirla por la pieza correspondiente.
+
+### 3. Sustitución de la pieza
+
+A continuación, se muestran las dos versiones de la pieza:
+
+*Pieza P3 correcta:*
+
+![Pieza P3 correcta](interferencia_4.png)<img width="344" height="295" alt="image" src="https://github.com/user-attachments/assets/b1c7bc87-971f-4469-a96f-319c6f06c6c5" />
+
+
+*Pieza P3 utilizada inicialmente, que ocasionaba la interferencia:*
+
+![Pieza P3 incorrecta](interferencia_5.png)<img width="318" height="225" alt="image" src="https://github.com/user-attachments/assets/088a9bfe-1d97-4c2d-a7e7-3ce91022f8fb" />
+
+
+### 4. Comprobación del ensamblaje
+
+Después de sustituir la pieza, se revisó nuevamente el ensamblaje y comprobé que todos los componentes estuvieran colocados correctamente.
+
+![Ensamblaje completo para revisión](interferencia_6.png) <img width="842" height="181" alt="image" src="https://github.com/user-attachments/assets/edccce08-00cc-40a1-9d72-abd611ab3665" />
+
+
+### 5.3. Resultado final
+
+Finalmente, se ejecutó nuevamente el análisis de interferencias en Autodesk Fusion.
+
+El resultado indicó que *no se habían detectado interferencias*, lo que confirmó que el problema inicial había sido solucionado.
+
+![Resultado final sin interferencias](interferencia_7.png)<img width="352" height="151" alt="image" src="https://github.com/user-attachments/assets/dc45fd31-dfbd-4660-83ee-478e1a254ddc" />
+
+
+
+
+La revisión permitió identificar que la interferencia se debía al uso de una versión incorrecta de la pieza P3. Después de sustituirla por la correcta, se realizó una nueva comprobación y se obtuvo un ensamblaje sin interferencias detectadas.
 ---
 
 ## 6. Ensamblaje y relaciones mecánicas
