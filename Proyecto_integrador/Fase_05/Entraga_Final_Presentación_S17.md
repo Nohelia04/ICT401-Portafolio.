@@ -1,0 +1,9 @@
+# Conclusión Final del Proyecto Integrador: TDBG (Tapa Dispensadora para Bolsas de Granos)
+
+El desarrollo integral de la **Tapa Dispensadora para Bolsas de Granos (TDBG)** permitió consolidar un flujo de trabajo completo de ingeniería y diseño asistido por computadora en Autodesk Fusion, estructurado progresivamente a lo largo de las cinco fases del curso **ICT401**:
+
+1. **Fase 01 – Conceptualización y Definición del Problema:** Se identificó una necesidad real y cotidiana (evitar derrames de alimentos y reducir el desperdicio por empaques mal sellados), estableciendo los requerimientos funcionales y ergonómicos del producto[cite: 4].
+2. **Fase 02 – Modelado Paramétrico de Componentes:** Se diseñaron de manera independiente las tres piezas clave del sistema collar base, tapa roscada estriada y tapón superior con asa, aplicando principios de geometría limpia y diseño paramétrico para facilitar futuras modificaciones[cite: 4].
+3. **Fase 03 – Ensamblaje, Restricciones y Validación Funcional:** Se integraron los componentes mediante relaciones de movimiento Joints y análisis de interferencias, garantizando un acople mecánico fluido, sin colisiones y con un cierre hermético[cite: 4].
+4. **Fase 04 – Documentación Técnica y Normalización:** Se elaboraron los planos formales Drawings bajo estándares normativos, incorporando vistas ortogonales, acotaciones críticas con tolerancias de desviación +/-0.15 mm en diámetro y +/- 0.05 mm en altura, lista de partes vinculada (BOM), globos indicadores y el cajetín institucional de la Universidad Nacional.
+5. **Fase 05 – Exportación, Gestión de Portafolio y Entrega Final:** Se consolidó la interoperabilidad del proyecto mediante la exportación a formatos estándar de la industria PDF, DXF, STL y STEP, dejando el diseño completamente preparado para su fabricación mediante manufactura aditiva (impresión 3D) y sustentado en esta presentación ejecutiva.
